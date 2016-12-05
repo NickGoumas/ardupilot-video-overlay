@@ -6,7 +6,7 @@ Requires pandas, numpy and moviepy libraries. Currently I just use this with the
 Tool to convert Bin to CSV found here:
 https://github.com/PX4/Firmware/tree/master/Tools/sdlog2
 
-Usage:
+==== Usage ====
 Make sure to start recording video before arming the vehicle. 
 When running the script four arguments are needed. In this order:
 -s, log start point in seconds.
