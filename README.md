@@ -1,7 +1,7 @@
 # ardupilot-video-overlay
 Quick and dirty python script I wrote to overlay ardupilot (pixhawk) log data over my GoPro video.
 
-Requires pandas, numpy and moviepy libraries. Currently I just use this with the quadcopter I've been building but it should work with any ardupilot log once convereted to a csv. 
+Requires pandas, numpy and moviepy libraries. Currently I just use this with the quadcopter I've been building but it should work with any ardupilot log once converted to a csv. 
 
 Tool to convert Bin to CSV found here:
 https://github.com/PX4/Firmware/tree/master/Tools/sdlog2
