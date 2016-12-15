@@ -1,5 +1,5 @@
 # ardupilot-video-overlay
-Quick and dirty python script I wrote to overlay ardupilot (pixhawk) log data over my GoPro video. Overlays Alt, Lat/Long and Flight Mode.
+Quick and dirty python script to overlay ardupilot (pixhawk) log data over GoPro video. Overlays Alt, Lat/Long and Flight Mode.
 
 Requires pandas, numpy and moviepy libraries. Currently I just use this with the quadcopter I've been building but it should work with any ardupilot log once converted to a csv. 
 
